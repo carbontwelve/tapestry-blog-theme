@@ -5,7 +5,7 @@ namespace Site;
 use Tapestry\Modules\Kernel\KernelInterface;
 use Tapestry\Tapestry;
 
-class kernel implements KernelInterface
+class Kernel implements KernelInterface
 {
     /**
      * @var Tapestry
